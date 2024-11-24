@@ -6,7 +6,7 @@ What we did is basically compiled [stb_image.h](https://github.com/nothings/stb)
 
 ## Quick Start
 
-1. Copy [js/stb_image.js](./js/stb_image.js) and [wasm/stb_image.wasm](./wasm/stb_image.wasm) file to your website to `js` and `wasm` folder correpondingly.
+1. Copy [js/stb_image.js](./js/stb_image.js) and [wasm/stb_image.wasm](./wasm/stb_image.wasm) file to your website to `js` and `wasm` folder correspondingly.
 1. Modify `STB_IMAGE_WASM_PATH` in [js/stb_image.js](./js/stb_image.js) if you want a different path to [wasm/stb_image.wasm](./wasm/stb_image.wasm).
 1. `<script src='./js/stb_image.js'></script>`
 1.
